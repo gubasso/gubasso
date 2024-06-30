@@ -1,6 +1,8 @@
 # RIPISSUE
 
-- badges:
+- style -> for-the-badge
+
+- add badges:
   - https://www.youtube.com/watch?v=4cgpu9L2AE8
   - https://zzetao.github.io/awesome-github-profile/
     - https://github.com/thmsgbrt
