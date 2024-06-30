@@ -1,11 +1,7 @@
 # RIPISSUE
 
-- style -> for-the-badge
-
-- add badges:
-  - https://www.youtube.com/watch?v=4cgpu9L2AE8
-  - https://zzetao.github.io/awesome-github-profile/
-    - https://github.com/thmsgbrt
+- https://zzetao.github.io/awesome-github-profile/
+  - https://github.com/thmsgbrt
 
 - create my profile at github/gubasso
   - https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme

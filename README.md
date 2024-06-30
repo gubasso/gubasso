@@ -1,7 +1,101 @@
-# Gustavo Basso's Bio
+## Gustavo Gomes Basso
+
+**Senior Software Engineer & CTO**
+___
+
+Welcome to my GitHub profile! I am Gustavo Gomes Basso, a Senior Software Engineer and CTO with over a decade of experience in technology and financial services. My expertise spans across Rust, Python, JavaScript, and web development. I specialize in developing secure, efficient, and scalable systems, and have a strong track record of leading technology strategy and R&D initiatives.
+
+### About Me
+
+- **Location**: Brasília, DF, Brazil
+- **Education**:
+  - **Doctor of Business Administration (Finance and Quantitative Methods)** [Incomplete], University of Brasília
+  - **Master of Science in Business Administration (Finance and Quantitative Methods)**, University of Brasília
+  - **Bachelor of Business Administration**, University of Brasília
+- **Languages**: Portuguese (native), English (advanced)
+
+### Professional Summary
+
+I am a seasoned software engineer with extensive experience in:
+
+- Leading and managing full software development lifecycles
+- Aligning technology strategies with business objectives
+- Implementing best practices in coding, testing, and deployment
+
+I have co-founded and led technology initiatives at various organizations, driving innovation and fostering technical excellence.
+
+### Key Skills
+
+- **Programming Languages**: Rust, Python, JavaScript, TypeScript, SQL
+- **Web Development**: React.js, Svelte, HTML, CSS
+- **Backend Development**: Node.js, Python Flask, Python Eve
+- **Infrastructure Management**: Ansible, Terraform, Docker, CI/CD, Linux
+- **Data Engineering**: SQL, MongoDB, Data Analysis, Data Management
+- **Project Management**: Agile methodologies, Team Leadership, Strategic Planning
+
+### Notable Projects
+
+- **Generative AI Data Engine**: A platform accelerating the creation of high-quality datasets for AI models.
+- **Cadelab**: Interactive platform for economic competition analytics.
+- **IpeaData**: Web platform offering comprehensive public data sets and robust data processing capabilities.
+- **Brag-Server**: Rust-based REST API for Git repository metrics.
+- **Ripissue**: Rust/Git-based CLI tool for efficient issue tracking.
+
+### Posts and Publications
+
+- [Ripissue as a Poor Man's Issue Tracker](https://gubasso.xyz/blog/ripissue-as-a-poor-mans-issue-tracker)
+- [Spatial and Non-Spatial Clustering: An Applied Study to Brazilian Agriculture. Discussion Papers 2279, Institute for Applied Economic Research - IPEA.](https://ideas.repec.org/p/ipe/ipetds/2279.html)
+- How beautiful but wrong answers put the world in crisis again. Periodic Democratic Policy. 2011.
+- [Boletim ODR: Observatório do Desenvolvimento Regional. Edição 1/2014, Outubro – Dezembro. Publicado pelo Ministério da Integração Nacional, Secretaria de Desenvolvimento Regional, 2014.](https://www.gov.br/mdr/pt-br/centrais-de-conteudo/publicacoes/desenvolvimento-regional-urbano/Boletim_ODR.pdf)
+
+### Professional Links
+
+- [LinkedIn](https://www.linkedin.com/in/gubasso)
+- [GitHub](https://github.com/gubasso)
+- [GitLab](https://gitlab.com/gubasso)
+- [Stack Overflow](https://stackoverflow.com/users/6428315/gustavo-basso)
+- [Leetcode](https://leetcode.com/gubasso)
+
+Feel free to explore my repositories and connect with me on any of the platforms listed above. Thank you for visiting my profile!
 
 
-### Skill Set
+
+---
+---
+---
+
+
+### 🔭 I’m currently working on ...
+
+- job's (roles)
+- projects
+
+###  Open Source Projects
+
+### 🌐Resources:
+
+- site
+- docs-n-notes
+- dotfiles
+
+### 📫 How to reach me: ...
+
+
+### 🌱 I’m currently learning ...
+
+### 👯 I’m looking to collaborate on ...
+
+### 🤔 I’m looking for help with ...
+
+### 💬 Ask me about ...
+
+### 🛝 Playground
+
+### ⚡ Fun fact: ...
+
+- sleep watching people code mainly with retro tools
+
+### 💻 Core skills and expertise:
 
 #### Programming Languages
 
@@ -104,37 +198,5 @@
 ![ArcGIS StoryMaps](https://img.shields.io/badge/ArcGIS%20StoryMaps-00599C?style=for-the-badge&logo=storymaps&logoColor=white)
 ![ArcGIS Dashboards](https://img.shields.io/badge/ArcGIS%20Dashboards-00599C?style=for-the-badge&logo=dashboards&logoColor=white)
 ![ArcGIS App Builder](https://img.shields.io/badge/ArcGIS%20App%20Builder-00599C?style=for-the-badge&logo=appbuilder&logoColor=white)
-
-
-### 🔭 I’m currently working on ...
-
-- job's (roles)
-- projects
-
-###  Open Source Projects
-
-### 🌐Resources:
-
-- site
-- docs-n-notes
-- dotfiles
-
-### 📫 How to reach me: ...
-
-### 💻 Core skills and expertise:
-
-### 🌱 I’m currently learning ...
-
-### 👯 I’m looking to collaborate on ...
-
-### 🤔 I’m looking for help with ...
-
-### 💬 Ask me about ...
-
-### 🛝 Playground
-
-### ⚡ Fun fact: ...
-
-- sleep watching people code mainly with retro tools
 
 
