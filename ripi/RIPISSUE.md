@@ -1,8 +1,5 @@
 # RIPISSUE
 
-- https://zzetao.github.io/awesome-github-profile/
-  - https://github.com/thmsgbrt
-
 - create my profile at github/gubasso
   - https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
   - https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github
