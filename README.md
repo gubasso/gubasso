@@ -83,7 +83,7 @@ Welcome to my GitHub profile! My name is Gustavo Gomes Basso, and I was born, ra
 |--------------------------------------|
 | ![PostGIS](https://img.shields.io/badge/PostGIS-00599C?style=for-the-badge&logo=postgis&logoColor=white) ![IpeaGEO](https://img.shields.io/badge/IpeaGEO-00599C?style=for-the-badge&logo=ipeageo&logoColor=white) ![ArcGIS Desktop](https://img.shields.io/badge/ArcGIS%20Desktop-00599C?style=for-the-badge&logo=arcgis&logoColor=white) ![ESRI Geoportal Server](https://img.shields.io/badge/ESRI%20Geoportal%20Server-00599C?style=for-the-badge&logo=geoportal&logoColor=white) ![ArcGIS Collector](https://img.shields.io/badge/ArcGIS%20Collector-00599C?style=for-the-badge&logo=collector&logoColor=white) ![ArcGIS StoryMaps](https://img.shields.io/badge/ArcGIS%20StoryMaps-00599C?style=for-the-badge&logo=storymaps&logoColor=white) ![ArcGIS Dashboards](https://img.shields.io/badge/ArcGIS%20Dashboards-00599C?style=for-the-badge&logo=dashboards&logoColor=white) ![ArcGIS App Builder](https://img.shields.io/badge/ArcGIS%20App%20Builder-00599C?style=for-the-badge&logo=appbuilder&logoColor=white) |
 
-###   Notable Projects
+### 🚀  Notable Projects
 
 - **IaC for CWNT:** Full infrastructure automation for CWNT using Terraform and Ansible.
 - **candid-gen:** CLI tool for automating the generation of Candid interface files from Rust canisters for Internet Computer projects. ([GitHub](https://github.com/cwnt-io/candid-gen), [Crates.io](https://crates.io/crates/candid-gen))
