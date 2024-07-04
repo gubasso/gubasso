@@ -3,12 +3,12 @@
 **Senior Software Engineer & Tech Manager**
 ___
 
-Welcome to my GitHub profile! My name is Gustavo Gomes Basso, and I was born, raised, and currently reside in Brasília, DF, Brazil. I am a senior Rust developer with extensive experience in Python, JavaScript, web development, and data analysis. I have over 10 years of experience in technology, financial services, and team management. Previously an academic and professor in Finance and Quantitative Analysis, I now consider myself a full-fledged Senior Software Engineer and Tech Manager.
+Welcome to my GitHub profile! My name is Gustavo Gomes Basso, and I was born, raised, and currently reside in Brasília, DF, Brazil. I am a senior Rust developer with extensive experience in Python, JavaScript, TypeScript, web development, and data analysis. I have over 10 years of experience in technology, financial services, and team management. Previously an academic and professor in Finance and Quantitative Analysis, I now consider myself a full-fledged Senior Software Engineer and Tech Manager.
 
 ### 👨‍💼  Professional Summary
 
 - Over 10 years of professional experience in technology, financial services, and team management
-- Areas of expertise: Rust, Python, JavaScript, web development and data analysis
+- Areas of expertise: Rust, Python, JavaScript, TypeScript, web development and data analysis
 - Expert in developing secure, performant, and scalable systems
 - Specialized in risk, portfolio, and pricing models
 - Leading and managing full software development lifecycles
